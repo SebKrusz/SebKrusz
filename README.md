@@ -15,7 +15,7 @@
 - (〃￣︶￣) Ask me about anything related to MERN stack and listed technologies! (￣︶￣〃)
   
 
-- ヾ༼ つ ◕_◕ ༽つ   Feel free to reach out for any reason ༼ つ ◕_◕ ༽つ  
+- ヾ༼ つ ◕_◕ ༽つ   Check out my portfolio site : SebastianKruszewski.com ༼ つ ◕_◕ ༽つ  
   
 
 <br/>  
