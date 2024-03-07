@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sebastian, a full-time full-stack freelance developer looking for a full time opportunity 🙏</div>  
+### <div align="center">I'm Sebastian, a full-stack freelance developer looking for a full time opportunity to get started professionally 🙏</div>  
   
 
 - ( ͡° ͜ʖ ͡°) I’m currently working on a chat app (https://github.com/SebKrusz/chatapp)  ( ͡° ͜ʖ ͡°)
