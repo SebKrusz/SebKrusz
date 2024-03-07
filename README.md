@@ -12,10 +12,10 @@
 - ᕦ(ò_óˇ)ᕤ I’m currently learning Mongo, Next Auth and Pusher for my next project  ᕦ(ò_óˇ)ᕤ
   
 
-- (〃￣︶￣) Ask me about anything related to MERN stack and listed technologies! (￣︶￣〃)
+- (〃￣︶￣) Ask me about anything related to MERN stack and the listed technologies! (￣︶￣〃)
   
 
-- ヾ༼ つ ◕_◕ ༽つ   Check out my portfolio site : SebastianKruszewski.com ༼ つ ◕_◕ ༽つ  
+- ヾ༼ つ ◕_◕ ༽つ   Check out my portfolio site : <a href="https://www.sebastiankruszewski.com/" target="_blank">HERE</a> ヾ༼ つ ◕_◕ ༽つ  
   
 
 <br/>  
