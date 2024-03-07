@@ -6,16 +6,16 @@
 ### <div align="center">I'm Sebastian, a full-stack freelance developer looking for a full time opportunity to get started professionally 🙏</div>  
   
 
-- ( ͡° ͜ʖ ͡°) I’m currently working on a chat app (https://github.com/SebKrusz/chatapp)  ( ͡° ͜ʖ ͡°)
+-  I’m currently working on a chat app (https://github.com/SebKrusz/chatapp) 
   
 
-- ᕦ(ò_óˇ)ᕤ I’m currently learning Mongo, Next Auth and Pusher for my next project  ᕦ(ò_óˇ)ᕤ
+- I’m currently learning Mongo, Next Auth and Pusher for my next project 
   
 
-- (〃￣︶￣) Ask me about anything related to MERN stack and the listed technologies! (￣︶￣〃)
+- Ask me about anything related to MERN stack and the listed technologies! 
   
 
-- ヾ༼ つ ◕_◕ ༽つ   Check out my portfolio site : <a href="https://www.sebastiankruszewski.com/" target="_blank">HERE</a> ヾ༼ つ ◕_◕ ༽つ  
+-   Check out my portfolio site : <a href="https://www.sebastiankruszewski.com/" target="_blank">HERE</a> 
   
 
 <br/>  
